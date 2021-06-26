@@ -1,0 +1,11 @@
+How will identify on which port any particular service is running?
+How can I copy file/folder incrementally over remote server?
+How can I add customize path in $PATH?
+How can I check size of a folder?
+What is load average in 'top' command?
+How to create folder structure?
+How to free RAM memory?
+On which file kernel info is store?
+How to create user with specific group id?
+How to set stickybit permission?
+Difference between chmod and chown?
